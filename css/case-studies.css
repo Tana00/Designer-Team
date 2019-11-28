@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,800|Source+Sans+Pro:300,700&display=swap");
+
+.sect1 h1 {
+  font-size: 3.45rem;
+  color: #34323b;
+  letter-spacing: -1px;
+  font-weight: 800;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1;
+}
+.sect1 p {
+  font-size: 1.25rem;
+  line-height: 1.875rem;
+  color: #5a5665;
+  max-width: 31rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+.hero-content {
+  padding: 1.5rem 0 1rem;
+  margin: auto;
+  text-align: center;
+}
+hr {
+  margin: 1em auto 3em;
+}
+header {
+  border-bottom: 1px solid #ececec;
+}

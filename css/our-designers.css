@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,800|Source+Sans+Pro:300,700&display=swap");
+
+.sect1 h1 {
+  font-size: 3.45rem;
+  color: #34323b;
+  letter-spacing: -1px;
+  font-weight: 800;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1;
+}
+.sect1 p {
+  font-size: 1.25rem;
+  line-height: 1.875rem;
+  color: #5a5665;
+  max-width: 31rem;
+  margin: 0 auto;
+}
+.hero-content {
+  padding: 1.5rem 0 1rem;
+  margin: auto;
+  text-align: center;
+}
+.card:hover {
+  box-shadow: none;
+}
+.card-deck {
+  margin-bottom: 3rem;
+}
+.card-body {
+  padding: 1.25rem 0;
+}
+.section1 p {
+  font-size: 1.25rem;
+  line-height: 1.875rem;
+  color: #5a5665;
+  text-align: center;
+  font-weight: 100;
+  margin: 1rem 0 0;
+}
+.hero-content hr {
+  margin: 1em auto 3em;
+}
+.section7 hr {
+  margin: 0em;
+}
+header {
+  border-bottom: 1px solid #ececec;
+}
+i {
+  color: #f63954;
+  font-size: 20px;
+}
+.quote h1 {
+  font-size: 2rem;
+  line-height: 1.1;
+  font-family: Oswald, sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: #34323b;
+  margin-bottom: 1.2rem;
+  letter-spacing: 1px;
+  text-align: center;
+}
